@@ -55,15 +55,15 @@ Before start working on this project, ensure that all the required Python librar
 |  `make help`                    | Show all configuration options.                                       |
 
 ## Useful Features:
-| Command                       | Options                    | Meaning                                                               |
-|-------------------------------|:--------------------------:|:----------------------------------------------------------------------|
-|  set_mode                     | `anonymizer/vectorizer/api`  | Change build option.                                                  |
-|  vectorize                    | `md/json` `numb_batches`    | Change file type and the number of batches for vectorization.            |
-|  set_config                   | `check etc/config.json`      | Update the config file in cf apps without redeploying.                |
-|  set_slack                    | `on/off`                     | Toogle slack communication on/off without redeploying.                |
-|  s3 ls                        |                            | Check the files in the blobstore.                                     |
-|  s3 delete                    | `file_name`                  | Delete the files in the blobstore.                                    |
-|  get_logs                     |                            | Retrieve real-time logs from targeted apps.                           |
+| Command                       | Options                      | Meaning                                                               |
+|-------------------------------|------------------------------|-----------------------------------------------------------------------|
+| `set_mode`                    | `anonymizer/vectorizer/api`  | Change build option.                                                  |
+| `vectorize`                   | `md/json` `numb_batches`     | Change file type and the number of batches for vectorization.         |
+| `set_config`                  | `check etc/config.json`      | Update the config file in cf apps without redeploying.                |
+| `set_slack`                   | `on/off`                     | Toogle slack communication on/off without redeploying.                |
+| `s3 ls`                       |                              | Check the files in the blobstore.                                     |
+| `s3 delete`                   | `file_name`                  | Delete the files in the blobstore.                                    |
+| `get_logs`                    |                              | Retrieve real-time logs from targeted apps.                           |
 
 
 
