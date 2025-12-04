@@ -1,6 +1,13 @@
 # Multimodal-RAG-Pipeline
 The Anonymized Multimodal Retrieval-Augmented Generation (RAG) Pipeline for large-scale internal document processing features an AI-powered chatbot based on GPT-5, designed to assist with any type of documentation. It offers quick and accurate responses to queries related to the documentation provided.
 
+## Abstract
+
+Towards to end of the first quarter of the 21st century the Artificial Intelligence (AI) has emerged as a game changer in the business world. The demand for an intelligent enterprise documentation retrieval system that addresses the critical challenge of accessing information in large-scale software development environments is high, as such a system can significantly improve productivity by locating relevant documents, enhancing knowledge sharing, reducing the time spent searching for information, and accelerating development workflows.
+
+The Agentic RAG pipelines model provides an approach that utilizes three microservice architectures that combine preprocessing (including anonymization, semantic vectorization, and conversational AI) to create a knowledge sharing platform. It is a cloud application that leverages Large Language Models to provide useful features. It can be integrated as a SlackBot to improve accessibility for users. It offers a continuous workflow that updates the database regularly. 
+
+A working prototype has been developed using Flask API's and deployed to Cloud Foundry. Integrates \texttt{SpaCy}-based anonymizer for anonymized data processing, a PostgreSQL vector database for similarity search, and an Azure OpenAI-powered conversational interface with LangGraph orchestration for context-aware responses. The method's versatility accross diverse document types, large languange models and allowing rapid database change hold early promise for robust performance for future applications.
 
 ## Architecture:
 ![rag architecture](docs/RAG.png "RAG Architecture")
