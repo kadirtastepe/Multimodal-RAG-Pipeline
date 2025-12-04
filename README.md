@@ -1,5 +1,5 @@
 # Multimodal-RAG-Pipeline
-The Anonymized Multimodal Retrieval-Augmented Generation (RAG) Pipeline for large-scale internal document processing features an AI-powered chatbot based on GPT-5, designed to assist with any type of documentation. It offers quick and accurate responses to queries related to the documentation provided.
+The Anonymized Agentic Multimodal Retrieval-Augmented Generation (RAG) Pipeline for large-scale internal document processing features an AI-powered chatbot based on GPT-5, designed to assist with any type of documentation. It offers quick and accurate responses to queries related to the documentation provided.
 
 ## Abstract
 
