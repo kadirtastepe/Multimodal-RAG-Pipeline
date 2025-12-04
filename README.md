@@ -1,6 +1,9 @@
 # Multimodal-RAG-Pipeline
 Anonymized Multimodal Retrieval Augmented Generation Pipeline for Internal Document Processing offers an AI-powered chatbot based on the current model GPT-5, designed to assist with any type of documentation. It provides quick and accurate responses to queries related to the provided documentation.
 
+## Architecture:
+![rag architecture](docs/RAG.png "RAG Architecture")
+
 Developers
 ------------
 
@@ -62,8 +65,6 @@ Before start working on this project, ensure that all the required Python librar
 |  s3 delete                    | `file_name`                  | Delete the files in the blobstore.                                    |
 |  get_logs                     |                            | Retrieve real-time logs from targeted apps.                           |
 
-## Architecture:
-![rag architecture](docs/RAG.png "RAG Architecture")
 
 
 
