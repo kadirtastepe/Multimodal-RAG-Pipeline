@@ -62,5 +62,8 @@ Before start working on this project, ensure that all the required Python librar
 |  s3 delete                    | `file_name`                  | Delete the files in the blobstore.                                    |
 |  get_logs                     |                            | Retrieve real-time logs from targeted apps.                           |
 
+## Architecture:
+![rag architecture](docs/RAG.png "RAG Architecture")
+
 
 
