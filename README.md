@@ -55,6 +55,7 @@ Before start working on this project, ensure that all the required Python librar
 | `make help` | Show all configuration options. |
 
 ## Useful Features:
+
 | Command | Options | Meaning |
 |---------|---------|----------|
 | `set_mode` | `anonymizer/vectorizer/api` | Change build option. |
