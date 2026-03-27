@@ -19,7 +19,7 @@ Developers
 
 If you have question or problems of any kind, do not hesitate to contact to the developer directly:
 
-- Kadir Tastepe <ktastepe@cern.ch>
+- Kadir Tastepe <kadir.tastepe@outlook.com>
 
 ## Prerequisites
 - Python 3.11
